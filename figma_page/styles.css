@@ -155,7 +155,6 @@ header button:hover{
 }
 
 .text-block {
-    /* border: 2px solid red; */
     display: flex;
     flex-direction: column;
     margin-left: 10%;
@@ -226,7 +225,6 @@ section p{
 }
 
 .content {
-    display: block;
     position: relative;
     flex-grow: 1;
     margin-right: 10%;
@@ -235,7 +233,6 @@ section p{
 }
 
 div.box{
-    display:block;
     height: 645px;width: 592px;
     border: 10px solid #5C8692;
     /* margin-top: 225px;
